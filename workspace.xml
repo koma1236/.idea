@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7611c996-802f-491c-a64d-9508551c3448" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webPanel/dist/TgCenter.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/dist/TgCenterUpdater.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/dist/translate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/files/1-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/files/905364697938-1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/files/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/translate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/1547234925_preview_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/1633499113_new_preview_Shadow_Man-wallpaper-9788280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/23d2fd1020878bab511f29bb8d053f7a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/348235-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/79-insolite-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/Ana Paula.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/Dri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/a0tpq0l2eyq08kfxsjlb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/a6g6fwvzi9z46jdpdomk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/a7pl5lpria8fz4jm6i5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/as09hbmplmfwatvez42m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/bogxieyvyqsmaqnpbkzm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/brbd7zbwn7yfn915mukx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/bxjjij8pwqyra36cid1o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/c8j0152701oijrnal1g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/c9k84lx8yr7zaia48bj1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/cp2yk3cs2b7p9wqmxzz5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/cq9gxgxvk1e1nn6w0pzw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/crxp8pogr6nhl4jvvck3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/d2rkx5a1b1v1l494zgki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/d7okijnb6eqz314p47oa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/d8pe864qc5w63xm0a0yd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/dc78v8bgku0fdn1yqnur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/dcfhyt3b473dr4o8w36f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/e0j9dj8gsy2x8qxjt9va.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/e3uyop777jing81ced4g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/ebsumwilfdaw1974.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/egw291posl21v9ui5sdw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/elfzccl1cp9jrbjx470u.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/f617ofddl2vr4f3rxsts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/fnj43btoipouymvjj99l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/g3gi9zl2dck8b0h202gn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/g3pw0sb65kd4cyk58vju.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/gl4fa79m96mercbd9qx9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/gnzpflwgrtgm8ehh4h5r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/gqd2gmawpedme11tr4fo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/gqmqrbijegpi9lnoxcd6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/gvtzimd9wokdzzbemdk8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/hg7i3msli5b990m5v645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/i73fbrlkvtaxm4q3ut08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/i7pe84f2igq7llxa7yha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/i7tvtm1is38vgwrumite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/ihbhu6ieoduk4aln3w6s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/injmcu5hlx1xd0oe5l2p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/io11w0o6n65a5m3ja8l3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/ippo5w5zykqg29007xlt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/iqy318flz5jtbdc2sovn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/iqyvgctiig63zdh3v8fp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/ir9sz4ne5kgz5uqz2pk4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/izd0zgfwzxna0vat4fa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/j7r5ehq8ckpjlwk310pe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/jfcff5sdn3cxcrlfozqq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/jtv79dmxu7romm1dlubn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/kh6p7makvatusoluokb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/l4gd06ojdc3oamriidvz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/lfuprzh1javye0qch9s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/m92hq5qc03b088pjgi9y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/mei5u4po9r776kgg1n8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/mptj6o6rajkz5ap51dc0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/n39gloh5ou749i20qxnm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/n5lbpcwwb6zodweiiius.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/o2ib9ul80bocjvbi1w2q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/o5bswckfh563oebpt4qn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/o5ja6rdtrr4hlcf4x4a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/pl3viuna47nyoywhjpo0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/pmfxwzpzp7y4op59vvr7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/pvnd3wccarjwfkzcmmhr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/rahhjbtw8mygq2o9k7lu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/ryoylbxj8zanowwd040l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/s78zsmj3rt25ow2i8k32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/s819vy5vn4il90s5ca4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/s8bep39zvz1jk35gikjl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/sboiqr8scaplsy1bn10d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/scrcqcwuh1jo7unecs6p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/slffis76ltdn1pkenie9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/tnnrzbbf6aw6ldiq642e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/tty93y9bestipuy8h4dj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/u6c08nob32gaaczqyb43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/uqu09aq3d22kmvq5j8hr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/uy66nzafvq7dpktm86rw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/v0zyuxjzb3tzqr7wacpa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/vfpfl2bhrzf2xpsultmc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/vl7um7vo8saau8p7ffg0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/vo3owzbnhvrl28tdttmg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/vz1jlpoi0adsakr9cnfb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/w1yco5t2uy8o93omhnjv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/wp4fwsfrqrjwx6fmf0lx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/wrde2cq9zaepn929yjet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/wroczcuqtjsd745hirvl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/x79dltk9mu74hh2ls9fm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/xz0cmqogxpj3vfg4wxsl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/y1fzf4c8cszyuc8kr6gn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/y3xn8qd9f8b2f9v84bmq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/y8qdf0ryudtfavgjhdz6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/yj8cee96t9m4haloi6uw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/yw00xr6u1qdjbgvftkmc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/z02shx1iz754e9geruz3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/zewz7lwnzumsofbqsi10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/zm798jh8iff5tumn904j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/zmnz5zispfoozdgnj8tu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/avatars/zza7dtzsix5a456fh1ct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__ar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__es.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__nl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__sv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__uk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/lang/lang__zh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/photo_2023-02-04_20-42-58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/photo_2023-02-06_15-57-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/photo_2023-02-06_16-05-57 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/photo_2023-02-06_16-05-57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/web/images/photo_2023-02-08_16-01-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801301870992.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801301870992.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801301870992/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801301870992/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801301870992/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801303759058/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801303759058/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801303759058/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801308916290/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801308916290/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801308916290/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801318036658/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801318036658/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801318036658/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801319838019/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801319838019/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801319838019/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801320431249/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801320431249/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801320431249/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801320513362/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801320513362/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801320513362/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801323336571/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801323336571/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801323336571/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801326187773/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801326187773/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801326187773/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801575513060/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801575513060/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801575513060/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801612307390/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801612307390/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801612307390/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801612469744/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801612469744/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801612469744/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801614681583/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801614681583/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801614681583/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801619119752/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801619119752/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801619119752/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801629127267/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801629127267/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801629127267/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801631607305/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801631607305/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801631607305/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801637760334/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801637760334/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801637760334/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801644845709/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801644845709/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801644845709/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801648268352/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801648268352/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801648268352/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801706744397/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801706744397/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801706744397/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801706848964/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801706848964/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801706848964/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801725476123/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801725476123/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801725476123/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801745849343/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801745849343/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801745849343/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801747764127/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801747764127/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801747764127/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801750503986/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801750503986/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801750503986/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801777859834/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801777859834/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801777859834/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801782928700/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801782928700/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801782928700/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801793252658/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801793252658/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801793252658/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801793885822/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801793885822/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801793885822/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801810251772/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801810251772/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801810251772/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801812074223/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801812074223/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801812074223/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801815016319/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801815016319/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801815016319/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801825429034/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801825429034/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801825429034/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801826089163/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801826089163/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801826089163/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801826448604/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801826448604/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801826448604/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801827235627/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801827235627/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801827235627/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801831117215/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801831117215/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801831117215/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801842364324/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801842364324/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801842364324/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801849575818/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801849575818/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801849575818/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801862910322/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801862910322/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801862910322/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801869326653/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801869326653/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801869326653/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801876453209/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801876453209/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801876453209/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801879454606/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801879454606/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801879454606/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801882480193/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801882480193/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801882480193/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801883325174/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801883325174/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801883325174/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801883602822/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801883602822/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801883602822/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801884897542/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801884897542/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801884897542/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801885221902/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801885221902/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801885221902/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801888418054/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801888418054/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801888418054/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801891804135/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801891804135/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801891804135/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801894128675/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801894128675/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801894128675/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801902118297/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801902118297/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801902118297/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801918475699/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801918475699/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801918475699/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801924364269/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801924364269/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801924364269/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801925493375/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801925493375/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801925493375/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801940667250/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801940667250/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801940667250/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801942449468/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801942449468/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801942449468/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801943673678/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801943673678/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801943673678/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801955761319/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801955761319/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801955761319/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801971227258/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801971227258/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801971227258/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801977242649/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801977242649/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801977242649/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801977307265/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801977307265/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801977307265/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801979362679/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801979362679/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801979362679/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801982843564/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801982843564/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801982843564/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801991483381/tdata/D877F783D5D3EF8C/maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801991483381/tdata/D877F783D5D3EF8Cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/None/8801991483381/tdata/key_datas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/acs_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/mega_export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/mega_export_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/221777650063.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/221777650063.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/237691067757.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/237691067757.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/237698248479.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/237698248479.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/50932863755.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/50932863755.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/51937618166.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/51937618166.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/51993113680.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/51993113680.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/77076793259.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/77076793259.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/77477230179.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/77477230179.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/905364762737.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webPanel/Аккаунты/Проверен/905364762737.session" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoregPlus/sms_tele_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoregPlus/sms_tele_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checker_acs/checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Checker_acs/checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_site_JaneDoe/bd.py" beforeDir="false" afterPath="$PROJECT_DIR$/client_site_JaneDoe/bd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_site_JaneDoe/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/client_site_JaneDoe/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_reg/xmltodict/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_reg/xmltodict/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_reg/xmltodict/xmltodict.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_reg/xmltodict/xmltodict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restBotPyro/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/restBotPyro/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_site_JaneDoe/pyscripts/agentator/agentator_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/server_site_JaneDoe/pyscripts/agentator/agentator_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webPanel/Result.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webPanel/TgCenter.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webPanel/bd.db" beforeDir="false" afterPath="$PROJECT_DIR$/webPanel/bd.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webPanel/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/webPanel/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webPanel/main.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webPanel/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/webPanel/users.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AutoregPlus" />
+  </component>
+  <component name="JupyterTrust" id="59671f8b-fa82-421a-b5ca-16e5424d73a7" />
+  <component name="ProjectId" id="27W9qMEr12sSpnBjVRkEcjMPEZl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TgCenter" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7611c996-802f-491c-a64d-9508551c3448" name="Default Changelist" comment="" />
+      <created>1649425166755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649425166755</updated>
+      <workItem from="1649425167919" duration="192000" />
+      <workItem from="1652963460785" duration="15000" />
+      <workItem from="1678021059192" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="270" key="FileChooserDialogImpl" timestamp="1678021090904">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="270" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1678021090904" />
+  </component>
+</project>
