@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AutoregPlus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatAutoAnswer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Checker_acs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TgCenter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TovarBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api_zvonok" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client_site_JaneDoe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memusender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new_reg/xmltodict" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/restBotPyro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server_site_JaneDoe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webPanel" vcs="Git" />
+  </component>
+</project>
